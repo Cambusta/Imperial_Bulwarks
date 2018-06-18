@@ -1,0 +1,38 @@
+TO DO:
+
+[OK]	Loot lists to WH40K
+[OK]	Hostile list to WH40K
+[OK]	Loot spawning 
+[OK] 	Additinoal structers
+[OK]	Change aerial vehicle to Valkyrie_RP_1490th_1
+[OK]	Add statics to listing
+[ok]	Kits of players
+[OK]	Hostiles gear should not be changed
+[OK]	View distance & terrain grid options
+[OK]	Freezed dawn time
+[OK]	Smoke on wrecks
+[OK]	Ambient artillery
+
+GROUP:
+	Suvivors	11 men
+	
+Pier Box
+Zeus module
+
+Markers:
+	bulwark_zone_1...11 (Eclipse)
+Mission Diary;
+You are unarmed and there are hostile untis moving towards you. Survive for as many waves as possible.
+<br />
+<br /> 
+Search buildings for weapons, equipment and supplies.
+<br /> 
+<br /> 
+Kill enemies to earn points to spend at the Bulwark Box. Points can be used to purchase Building Supplies and Supports. Purchased Supports can be used via the Supports menu (0 - 8 on keyboard).
+<br />
+<br /> 
+If you are knocked unconscious but you have a Medikit in your inventory you will be automatically resurected within 10 seconds. Medikits can also be broken into 4 First Aid Kits from the scroll menu.
+
+
+
+
